@@ -9,4 +9,4 @@ print("%d的阶乘是:%d"%(number,result))
 
 int(input('请输入一个人正整数：'))
 result=factorial(number)
-print("%d的阶乘是:%
+print("%d的阶乘是:%",result)
